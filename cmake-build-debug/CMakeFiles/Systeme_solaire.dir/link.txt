@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Systeme_solaire.dir/SS.cpp.o CMakeFiles/Systeme_solaire.dir/definate.cpp.o  -o Systeme_solaire 

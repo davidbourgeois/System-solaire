@@ -1,0 +1,3 @@
+/home/marken/CLionProjects/Systeme solaire/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marken/CLionProjects/Systeme solaire/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marken/CLionProjects/Systeme solaire/cmake-build-debug/CMakeFiles/Systeme_solaire.dir

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marken/CLionProjects/Systeme solaire/SS.cpp
+header.h
+/home/marken/CLionProjects/Systeme solaire/header.h
+
+/home/marken/CLionProjects/Systeme solaire/definition.h
+
+/home/marken/CLionProjects/Systeme solaire/header.h
+iostream
+-
+fstream
+-
+cmath
+-
+ctime
+-
+definition.h
+/home/marken/CLionProjects/Systeme solaire/definition.h
+
